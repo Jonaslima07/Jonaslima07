@@ -1,13 +1,14 @@
 <!-- Header -->
 # 🧑🏼‍💻 Jonas Lima
 
+## Desenvolvedor de Software
 
 
 
 
 <!-- About Section -->
 **Hi 👋🏻**  
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que impactem positivamente a vida das pessoas e empresas, utilizando as mais recentes tecnologias para entregar produtos de alta qualidade.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que impactem positivamente a vida das pessoas e empresas, utilizando as mais recentes tecnologias para entregar produtos de alta qualidade.
 
 ---
 
@@ -33,12 +34,12 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 ### ⚡ Linguagens e Tecnologias
 
 <div>
-    <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="Flask" title="Flask" width="50px" src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" />
+    <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Flask" title="Flask" width="40px" height="40px;" src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" />
 </div>
 
 ---
