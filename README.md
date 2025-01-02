@@ -11,26 +11,28 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ---
 
-## 📊 Estatísticas
+<h2 style="font-size: 1.2em; color: rgb(0, 255, 128); font-family: Arial, sans-serif;">
+    📊 Estatísticas
+</h2>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px;">
     <img 
         alt="Jonas GitHub Stats" 
-        src="https://github-readme-streak-stats.herokuapp.com?user=Jonaslima07&theme=dark&hide_border=false&locale=pt_BR&short_numbers=false" 
+        src="https://github-readme-streak-stats.herokuapp.com?user=Jonaslima07&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso" 
         height="200" 
-    />
+        style="border-radius: 5px;" />
     <img  
         alt="Top Languages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaslima07&show_icons=true&theme=dark&locale=pt-br&layout=compact" 
         height="200" 
-    />
+        style="border-radius: 5px;" />
 </div>
 
 ---
 
 ### ⚡ Linguagens e Tecnologias
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div>
     <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -43,12 +45,13 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ### 🎲 Databases
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div>
     <img 
         alt="Postgres" 
         title="Postgres" 
         width="50px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+    &nbsp;&nbsp;
     <img 
         alt="Mysql" 
         title="Mysql" 
@@ -60,19 +63,22 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
 
 ## 📲 Contatos
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div>
     <a href="https://www.linkedin.com/in/jonas-lima-a14b0026a/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
             width="40px" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+        />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:jonaslimastz@gmail.com" target="_blank">
         <img 
             alt="Email" 
             title="Email" 
             width="40px" 
-            src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+            src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+        />
     </a>
 </div>
