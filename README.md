@@ -19,12 +19,12 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu obj
     <img 
         alt="Jonas GitHub Stats" 
         src="https://github-readme-streak-stats.herokuapp.com?user=Jonaslima07&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso" 
-        height="100" 
+        height="180" 
         style="border-radius: 5px;" />
     <img  
         alt="Top Languages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaslima07&show_icons=true&theme=dark&locale=pt-br&layout=compact" 
-        height="100" 
+        height="180" 
         style="border-radius: 5px;" />
 </div>
 
