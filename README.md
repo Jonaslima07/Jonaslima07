@@ -1,12 +1,8 @@
-<!-- Header -->
+
 # 🧑🏼‍💻 Jonas Lima
 
 ## Desenvolvedor de Software
 
-
-
-
-<!-- About Section -->
 **Hi 👋🏻**  
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que impactem positivamente a vida das pessoas e empresas, utilizando as mais recentes tecnologias para entregar produtos de alta qualidade.
 
@@ -62,7 +58,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
 </div>
 
 ---
-
 ## 📲 Contatos
 
 <div>
@@ -71,7 +66,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
             alt="LinkedIn" 
             title="LinkedIn" 
             width="40px" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+            src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
         />
     </a>
     &nbsp;&nbsp;
@@ -84,3 +79,5 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
         />
     </a>
 </div>
+
+
