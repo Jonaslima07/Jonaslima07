@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
     <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    <img alt="Flask" title="Flask" width="40px" height="40px;" src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" />
+    <img alt="Flask" title="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
 ---
@@ -47,37 +47,19 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
     <img 
         alt="Postgres" 
         title="Postgres" 
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     &nbsp;&nbsp;
     <img 
         alt="Mysql" 
-        title="Mysql" 
-        width="60px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        title="Mysql"  
+        src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
 ## 📲 Contatos
 
-<div>
-    <a href="https://www.linkedin.com/in/jonas-lima-a14b0026a/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            width="40px" 
-            src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
-        />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:jonaslimastz@gmail.com" target="_blank">
-        <img 
-            alt="Email" 
-            title="Email" 
-            width="40px" 
-            src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-        />
-    </a>
+
+<div> 
+<a href="https://www.linkedin.com/in/jonas-lima-a14b0026a/" target="_blank"><img src="https://github.com/user-attachments/assets/18b7e111-8138-4bbf-9476-cf1dff1cdba1" target="_blank" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
+<a href = "mailto:jonaslimastz@gmail.com"> <img src="https://github.com/user-attachments/assets/a95cc1b8-2406-4809-8029-32907c1ecb33" target="_blank" style="width: 40px; height: 40px;"></a>
 </div>
-
-
