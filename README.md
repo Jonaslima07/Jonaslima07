@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é cri
 
 ---
 
-### ⚡ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <div>
     <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
