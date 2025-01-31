@@ -1,5 +1,4 @@
 
----
 
 <h2 style="font-size: 1.2em; color: rgb(0, 255, 128); font-family: Arial, sans-serif;">
     📊 Estatísticas
