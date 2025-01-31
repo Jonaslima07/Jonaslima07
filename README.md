@@ -3,9 +3,6 @@
 
 ## Desenvolvedor de Software
 
-**Hi 👋🏻**  
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu objetivo é criar soluções que impactem positivamente a vida das pessoas e empresas, utilizando as mais recentes tecnologias para entregar produtos de alta qualidade.
-
 ---
 
 <h2 style="font-size: 1.2em; color: rgb(0, 255, 128); font-family: Arial, sans-serif;">
