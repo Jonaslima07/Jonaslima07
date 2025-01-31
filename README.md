@@ -1,7 +1,7 @@
 
 # 🧑🏼‍💻 Jonas Lima
 
-## Desenvolvedor de Software
+
 
 ---
 
